@@ -1,3 +1,4 @@
-#Ignore data files and results
+#Ignore input data files and results
 *.dat 
 results
+!a.dat
