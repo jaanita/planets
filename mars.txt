@@ -4,4 +4,8 @@ But the Mummy will appreciate the lack of humidity!
 Seems hard, but may be worth the effort.
 Mars is cool.
 Second Pull Request.
+<<<<<<< HEAD
 Bye
+=======
+Hello.
+>>>>>>> 3c2adfdeee97b70004debe1afe94c9eb6912809d
